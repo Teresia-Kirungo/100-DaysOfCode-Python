@@ -38,5 +38,6 @@ print(type(new_weight))
 
 # Calculation of the bmi, the int() function converts the float to an interger(a whole number without a decimal)
 bmi = int(new_weight / (new_height * new_height))
+# bmi = int(new_weight / (new_height ** 2)) is another formula, **2 means raised to the power of two
 print(bmi)
 
