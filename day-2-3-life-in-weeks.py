@@ -13,3 +13,29 @@
 # 2. Try copying the example output into your code and replace the relevant parts so that the sentence is formated the same way.
 
 # Source Code
+
+# 🚨 Don't change the code below 👇
+age = input("What is your current age?")
+# 🚨 Don't change the code above 👆
+
+#Write your code below this line 👇
+
+# 1 year = 12 months
+# 1 year = 52 weeks
+# 1 year = 365 days
+# check the data type
+print(type(age)) 
+
+# Data type conversion 
+new_age = int(age)
+# minimum_years = 120
+# print(type(new_age))
+years_left = 120 - new_age
+weeks_left = years_left * 52
+months_left = years_left * 12
+days_left = years_left * 365
+
+# print(years_left)
+
+print(f"You have {days_left} days, {weeks_left} weeks, and {months_left} months left.")
+
