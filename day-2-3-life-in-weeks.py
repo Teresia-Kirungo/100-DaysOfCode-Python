@@ -36,6 +36,6 @@ months_left = years_left * 12
 days_left = years_left * 365
 
 # print(years_left)
-
-print(f"You have {days_left} days, {weeks_left} weeks, and {months_left} months left.")
+display = f"You have {days_left} days, {weeks_left} weeks, and {months_left} months left."
+print(display)
 
