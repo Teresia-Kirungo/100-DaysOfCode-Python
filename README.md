@@ -8,7 +8,7 @@ Test the [source code here](https://repl.it/@terrykirungo/band-name-generator-st
 
 ## Day 2 Of 100-DaysOfCode-Python
 Data Types, Numbers, Operations, Type Conversion, f-Strings </br>
-[DataTypeExercise](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-1-Data-Type-Conversion.py) | [BmiCalculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-2-exercise-bmi.py)| [LifeInWeeks](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-3-life-in-weeks.py) <br>
-Built a [tip calculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-Tip-Calculator.py)<br>
+[DataTypeExercise](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-1-Data-Type-Conversion.py) | [BmiCalculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-2-exercise-bmi.py) | [LifeInWeeks](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-3-life-in-weeks.py) <br>
+Main Project • Built a [tip calculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-Tip-Calculator.py)<br>
 The challenge instructions are commented out within the first few lines of the file and right below it, is the Code.<br>
 Test the [source code here](https://repl.it/@terrykirungo/band-name-generator-start#main.py)
