@@ -14,4 +14,5 @@ Main Project • Built a [tip calculator](https://github.com/Teresia-Kirungo/100
 Test the [source code here](https://repl.it/@terrykirungo/tip-calculator)
 
 ## Day 3 Of 100-DaysOfCode-Python
-Conditional Statements, Logical Operators, Code Blocks and Scope
+Conditional Statements, Logical Operators, Code Blocks and Scope <br/>
+[EvenOdd](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-3-1-odd-or-even.py) |
