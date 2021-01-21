@@ -41,11 +41,11 @@ if year % 4 == 0:
   if year % 100 == 0:
     # print("Still could be a leap year")
     if year % 400 == 0:
-      print("This is a Leap Year")
+      print("Leap year.")
     else:
-      print("Definitely not a Leap Year")
+      print("Not leap year.")
   else:
-    print("It is definitely a Leap Year")
+    print("Leap year.")
 else:
-  print("This is not a Leap Year")
+  print("Not leap year.")
   
