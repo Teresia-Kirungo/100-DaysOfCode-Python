@@ -21,7 +21,7 @@
 # Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
 
 print("Welcome to the Tip Calculator.")
-bill= int(input("What is the total bill? "))
+bill = float(input("What is the total bill? "))
 tip = int(input("What percentage tip would you like to give? 10, 12 or 15? "))
 persons = int(input("How many people to split bill? "))
 
@@ -37,7 +37,6 @@ persons = int(input("How many people to split bill? "))
 #                       = 33.6 
 percentage_tip = (tip/100) * bill
 total_bill = bill + percentage_tip
-tip_given = round(total_bill / persons)
+tip_given = round(total_bill / persons, 2) # rounds off the number to 2 decimal places
 
 print(f"Here's how much tip to give: Kes {tip_given}")
-
