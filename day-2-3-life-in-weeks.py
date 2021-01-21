@@ -23,17 +23,26 @@ age = input("What is your current age?")
 # 1 year = 12 months
 # 1 year = 52 weeks
 # 1 year = 365 days
+
 # check the data type
 print(type(age)) 
 
 # Data type conversion 
 new_age = int(age)
+
 # minimum_years = 120
 # print(type(new_age))
 years_left = 120 - new_age
 weeks_left = years_left * 52
 months_left = years_left * 12
 days_left = years_left * 365
+
+# Hint: How the f string works
+# the f string, allows us to be able to print different data types in one print statement, example below
+# score = 0 # interger data type
+# height = 1.8 # float data type
+# isWin = True #Boolean
+# print(f"your score is {score}, your height is {height}, your winning is {isWin}.")
 
 # print(years_left)
 display = f"You have {days_left} days, {weeks_left} weeks, and {months_left} months left."
