@@ -9,3 +9,8 @@
 # The Tip-Calculator should show the user the amount of money each person should contribute.
 
 # Source Code
+# Hints:
+# 1. round() -> print(round(8/3)) rounds off numbers to the nearest whole number, in this case this will be 3
+#            -> print(round(8/3,2)) rounds off a number to a given precision in decimal digits in this case to 2 decimal places so the output will be 2.67
+#            -> print(round(2.66666667,2)) will give an output of 2.67
+# 2. Floor division // -> print(8 // 3) drops off any number after the decimal point the output will be 2
