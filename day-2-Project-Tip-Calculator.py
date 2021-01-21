@@ -14,3 +14,30 @@
 #            -> print(round(8/3,2)) rounds off a number to a given precision in decimal digits in this case to 2 decimal places so the output will be 2.67
 #            -> print(round(2.66666667,2)) will give an output of 2.67
 # 2. Floor division // -> print(8 // 3) drops off any number after the decimal point the output will be 2
+
+# If the bill was $150.00, split between 5 people, with 12% tip. 
+# Each person should pay (150.00 / 5) * 1.12 = 33.6
+# Format the result to 2 decimal places = 33.60
+# Tip: There are 2 ways to round a number. You might have to do some Googling to solve this.💪
+
+print("Welcome to the Tip Calculator.")
+bill= int(input("What is the total bill? "))
+tip = int(input("What percentage tip would you like to give? 10, 12 or 15? "))
+persons = int(input("How many people to split bill? "))
+
+# Calculations for spliting the bill
+# percentage_tip = tip% of bill
+#                = 12% of 150.00 
+#                = 18
+# total_bill = bill + percentage_tip 
+#            = 150 + 18 
+#            = 168
+# persons_to_split_bill = total bill / persons 
+#                       = 168 / 5 
+#                       = 33.6 
+percentage_tip = (tip/100) * bill
+total_bill = bill + percentage_tip
+tip_given = round(total_bill / persons)
+
+print(f"Here's how much tip to give: Kes {tip_given}")
+
