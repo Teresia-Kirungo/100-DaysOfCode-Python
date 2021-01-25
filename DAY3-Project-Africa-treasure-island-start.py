@@ -30,6 +30,9 @@ print("Welcome to Africa Treasure Island.")
 print("Your mission is to find the Africa hidden treasure.")
 
 start = input("To start type 1 to head right or 2 to head left? ")
+# start = input("To start type 'right' to head right or 'left' to head left? ").lower()
+# lower() will tranform the inpt given to lowercase
+
 if start == "1":
     print("You are in a misile zone. Game Over!")
 
