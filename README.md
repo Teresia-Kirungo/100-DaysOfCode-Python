@@ -5,13 +5,13 @@ Started 100-DaysOfCode-Python on 19.01.2021, courtesy of [100 Days of Code - The
 ### Test out all my exercises on my [Repl](https://repl.it/repls).
 
 ## Day 1
-Created [day-1-band-name-generator.py](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-1-band-name-generator.py) <br>
+Created [Day-1-Project-Band-Name-Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/Day-1-Project-Band-Name-Generator.py) <br>
 Test the [source code here](https://repl.it/@terrykirungo/band-name-generator-start#main.py)
 
 ## Day 2 
 Data Types, Numbers, Operations, Type Conversion, f-Strings </br>
-[DataTypeExercise](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-1-Data-Type-Conversion.py) | [BmiCalculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-2-exercise-bmi.py) | [LifeInWeeks](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-3-life-in-weeks.py) <br>
-Main Project • Built a [tip calculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/day-2-Project-Tip-Calculator.py) | Test it [here](https://repl.it/@terrykirungo/tip-calculator)
+[DataTypeExercise](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-1-Data-Type-Conversion.py) | [BmiCalculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-3-life-in-weeks.py) | [LifeInWeeks](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-3-life-in-weeks.py) <br>
+Main Project • Built a [tip calculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/Day-2-Project-Tip-Calculator.py) | Test it [here](https://repl.it/@terrykirungo/tip-calculator)
 
 ## Day 3
 Conditional Statements, Logical Operators, Code Blocks and Scope <br/>
