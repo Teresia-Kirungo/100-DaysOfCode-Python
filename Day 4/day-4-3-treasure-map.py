@@ -48,20 +48,24 @@
 # 2. ```map``` is just a variable that contains a nested list. It's not related to the map function in Python.
 
 # 🚨 Don't change the code below 👇
-row1 = ["⬜️","⬜️","⬜️"]
-row2 = ["⬜️","⬜️","⬜️"]
-row3 = ["⬜️","⬜️","⬜️"]
+#         1    2      3      COLUMNS
+row1 = ["⬜️","⬜️","⬜️"] # 1     R
+row2 = ["⬜️","⬜️","⬜️"] # 2     O
+row3 = ["⬜️","⬜️","⬜️"] # 3     WS
 map = [row1, row2, row3]
 print(f"{row1}\n{row2}\n{row3}")
 position = input("Where do you want to put the treasure? ")
 # 🚨 Don't change the code above 👆
-
 #Write your code below this row 👇
-# If the input given is 23
-horizontal_position = int(position[0]) #2 since they are still strings we'll change them to intergers -> int
-vertical_position = int(position[1]) #3
 
-map[vertical_position - 1][horizontal_position - 1] = "X"
+# rows first column last/next
+# If the input given is 23 it will move 2 rows 3 columns
+
+x_position = int(position[0]) #2 since they are still strings we'll change them to intergers -> int()
+y_position = int(position[1])  #3
+
+#     2 rows          3 Columns
+map[x_position - 1][y_position - 1] = "X"
 
 #Write your code above this row 👆
 
