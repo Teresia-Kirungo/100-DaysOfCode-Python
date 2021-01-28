@@ -25,3 +25,7 @@ states_of_america.insert(0,"Merryland")
 
 print(states_of_america)
 
+
+# Arrays in JavaScript are what Lists are in Python
+# Arr =[Item1, Item2, Item3] in JS
+# List = [Item1, Item2, Item3] in Python
