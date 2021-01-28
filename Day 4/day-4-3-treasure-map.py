@@ -48,7 +48,7 @@
 # 2. ```map``` is just a variable that contains a nested list. It's not related to the map function in Python.
 
 # 🚨 Don't change the code below 👇
-#         1    2      3      COLUMNS
+#         1    2      3   COLUMNS
 row1 = ["⬜️","⬜️","⬜️"] # 1     R
 row2 = ["⬜️","⬜️","⬜️"] # 2     O
 row3 = ["⬜️","⬜️","⬜️"] # 3     WS
@@ -64,7 +64,7 @@ position = input("Where do you want to put the treasure? ")
 x_position = int(position[0]) #2 since they are still strings we'll change them to intergers -> int()
 y_position = int(position[1])  #3
 
-#     2 rows          3 Columns
+# On  row 2 rows and column 3 put X
 map[x_position - 1][y_position - 1] = "X"
 
 #Write your code above this row 👆
