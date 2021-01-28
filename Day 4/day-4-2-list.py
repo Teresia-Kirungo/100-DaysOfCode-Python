@@ -8,7 +8,7 @@ states_of_america = ["Alabama","Arizona","Arkansas","California", "Colorado", "C
 print(states_of_america[0]) # Prints the first element in the list
 print(states_of_america[-1]) # Prints the last element in the list
 
-# Changes the string at index[-1] of the List
+# Changes the string at last index[-1] -> starts counting from the end of the list of the List
 states_of_america[-1] = "Delamere" 
 
 
@@ -20,7 +20,7 @@ states_of_america.append("Terryland")
 states_of_america.extend(["Maryland", "MariaAntonett"])
 
 
-# Insert an item "Merryland" at a given index 0 position.
+# Insert an item "Merryland" at the given index 0 position.
 states_of_america.insert(0,"Merryland")
 
 print(states_of_america)
