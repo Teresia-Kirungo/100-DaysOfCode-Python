@@ -9,16 +9,3 @@ if random_side == 1:
   print("Heads")
 else:
   print("Tails")
-
-# What arrays are in JavaScript is what Lists are in Python
-# Arr =[Item1, Item2, Item3]
-# List = [Item1, Item2, Item3]
-
-
-
-
-
-
-
-
-
