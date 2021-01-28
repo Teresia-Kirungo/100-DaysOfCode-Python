@@ -23,10 +23,12 @@ names = names_string.split(", ")
 #Write your code below this line 👇
 
 # How many items are in the list
-how_many_people = len(names)
+number_of_people = len(names)
 
-random_person = random.randint(0,how_many_people - 1)
+# Get's the random person by picking a random index number of a person in the list from index[0] to the last person index[-1] in the list
+random_person = random.randint(0, number_of_people - 1)
 
+# Pops ups the name of the randpm index picked
 random_person_paying = names.pop(random_person)
 
 # The above code could be simplified to be:
