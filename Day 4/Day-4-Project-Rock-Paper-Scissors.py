@@ -33,31 +33,28 @@ print(f"Your choice is: \t{game[users_choice]}")
 computer_choice = random.randint(0, 2)
 print(f"Computer choice is: \t{game[computer_choice]}")
 
-if users_choice == computer_choice: 
-  print("Its a tie, you both get 1 point")
+# draw
+if users_choice == computer_choice:
+    print("Its a draw, you both get 1 point")
 
 # Paper Beats Rock
 elif users_choice  == 0 and computer_choice == 1:
-  print("Paper beats Rock. Computer Wins 2 points! You 0 points.")
+    print("Paper beats Rock. Computer Wins 2 points! You 0 points.")
 elif users_choice  == 1 and computer_choice == 0:
-  print("Paper beats Rock. You Win 2 points! Computer 0 points.")
+    print("Paper beats Rock. You Win 2 points! Computer 0 points.")
   
 # Rock beats Scissors
 elif users_choice  == 0 and computer_choice == 2:
-  print("Rock beats Scissors. You Win 2 points! Computer 0 points.")
+    print("Rock beats Scissors. You Win 2 points! Computer 0 points.")
 elif users_choice  == 2 and computer_choice == 0:
-  print("Rock beats Scissors. Computer Wins 2 points! You 0 points.")
+    print("Rock beats Scissors. Computer Wins 2 points! You 0 points.")
 
 # Scissor beats Paper
 elif users_choice  == 1 and computer_choice == 2:
-  print("Scissor beats Paper. Computer Wins 2 points! You 0 points.")
+    print("Scissor beats Paper. Computer Wins 2 points! You 0 points.")
 elif users_choice  == 2 and computer_choice == 1:
-  print("Scissor beats Paper. You Win 2 points! Computer 0 points.")
+    print("Scissor beats Paper. You Win 2 points! Computer 0 points.")
 
-else:
-  print("Invalid input try again!")
-
-
-
-  
+elif users_choice  >= 3 or users_choice <0:
+    print("Invalid input try again!")
 
