@@ -21,7 +21,9 @@ Main Project • [Africa Treasure Hunt](https://github.com/Teresia-Kirungo/100-D
 ## Day 4
 Randomisation and Python Lists <br>
 [Randomisation](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%204/day-4-1-randomisation.py) | [List](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%204/day-4-2-list.py) | [RandomPersonPaysBill](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%204/day-4-2-random-person-pays-bill.py) <br>
-Main Project • [Rock Paper Scissors]() | Test it [here]()
+Main Project • [Rock Paper Scissors](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%204/Day-4-Project-Rock-Paper-Scissors.py) | Test it [here](https://repl.it/@terrykirungo/Day-4-Project-Rock-Paper-Scissors)
+
+## Day 5
 
 
 
