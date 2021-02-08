@@ -21,7 +21,7 @@
 
 # # Solution
 
-# [https://repl.it/@appbrewery/day-5-1-solution](https://repl.it/@appbrewery/day-5-1-solution)
+# https://repl.it/@terrykirungo/day-5-1-average-height
 
 # 🚨 Don't change the code below 👇
 # split() puts the items separated by a comma(,) in a List like this 123, 145, 236, 267, 190#
