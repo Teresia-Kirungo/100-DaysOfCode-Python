@@ -27,7 +27,7 @@ Main Project • [Rock Paper Scissors](https://github.com/Teresia-Kirungo/100-Da
 
 ## [Day 5 OF 100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%205)
 For Loops, Range and Code Blocks <br>
-[For Loop](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/day-5-0-start.py)
+[For Loop](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/day-5-0-start.py) | [Average Height](https://repl.it/@terrykirungo/day-5-1-average-height#main.py) |
 Generates a password generator which uses the letters, symbols and numbers.
 
 
