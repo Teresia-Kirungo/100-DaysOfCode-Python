@@ -1,5 +1,5 @@
 # Loops -> Things that have to happen over and over again
-fruits = ["Apple", "Peach", "Pear"]
+fruits = ["Apple", "Orange", "Mango"]
 
 for tunda in fruits:
     print(tunda)
