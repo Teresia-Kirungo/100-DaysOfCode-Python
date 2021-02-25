@@ -25,8 +25,9 @@ Main Project • [Rock Paper Scissors](https://github.com/Teresia-Kirungo/100-Da
 
 # TOOK A BREAK NOW I AM BACK! WHERE WERE WE?
 
-## Day 5 OF 100-DaysOfCode-Python
+## [Day 5 OF 100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%205)
 For Loops, Range and Code Blocks <br>
+[For Loop](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/day-5-0-start.py)
 Generates a password generator which uses the letters, symbols and numbers.
 
 
