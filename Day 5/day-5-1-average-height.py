@@ -42,8 +42,8 @@ for n in range(0, len(student_heights)):
 total_height = 0 
 # Uses the for loop below to calculate the total sum of the student_heights
 for height in student_heights:
-    total_height = total_height + height
-print(f"The sum of the students height is {total_height}")
+    total_height = total_height + height # the first one it will execute 0 + the first number in the list provided, it will run this line of code until the last item on the list
+print(f"The sum of the students height is {total_height}") # prints total height calculated!
 
 # First assigns the no_of_students variable to 0
 number_of_students = 0
@@ -53,4 +53,3 @@ print(f"The number of students is {number_of_students}")
 
 average_height = round(total_height / number_of_students)
 print(f"The average height is {average_height}")
-
