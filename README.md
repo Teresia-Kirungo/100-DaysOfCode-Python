@@ -6,7 +6,7 @@ Started 100-DaysOfCode-Python on 19.01.2021, courtesy of [100 Days of Code - The
 
 ## [Day 1](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%201) OF 100-DaysOfCode-Python
 Printing, Commenting, Debugging, String Manipulation and Variables <br>
-[Hello World](https://replit.com/@terrykirungo/day-1-printing-start-1#main.py) | [Printing to the Console](https://replit.com/@terrykirungo/day-1-1-exercise-1#main.py) | <br>
+[Hello World](https://replit.com/@terrykirungo/day-1-printing-start-1#main.py) | [Printing to the Console](https://replit.com/@terrykirungo/day-1-1-exercise-1#main.py) | [Debugging](https://replit.com/@terrykirungo/day-1-2-exercise-1#main.py) <br>
 Main Project • [Band-Name-Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/Day-1-Project-Band-Name-Generator.py) | Test it [here](https://repl.it/@terrykirungo/band-name-generator-start#main.py)
 
 ## Day 2 OF 100-DaysOfCode-Python
