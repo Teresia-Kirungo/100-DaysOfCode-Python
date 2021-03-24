@@ -37,6 +37,11 @@ weeks_left = years_left * 52
 months_left = years_left * 12
 days_left = years_left * 365
 
+years_lived = new_age
+months_lived = years_lived * 12
+weeks_lived = years_lived * 52
+days_lived = years_lived * 365
+
 # Hint: How the f string works
 # the f string, allows us to be able to print different data types in one print statement, example below
 # score = 0 # interger data type
@@ -44,7 +49,11 @@ days_left = years_left * 365
 # isWin = True #Boolean
 # print(f"your score is {score}, your height is {height}, your winning is {isWin}.")
 
-# print(years_left)
-display = f"You have {days_left} days, {weeks_left} weeks, and {months_left} months left."
-print(display)
+# prints years lived
+lived = f"Thou good and faithful servant, you have walked on this earth for {years_lived} years, {months_lived} months, {weeks_lived} weeks and {days_lived} days"
+print(lived)
 
+# print(years_left)
+display = f"You have {years_left} years, {days_left} days, {weeks_left} weeks, and {months_left} months left."
+print(display)
+print("Keep up with the good work!")
