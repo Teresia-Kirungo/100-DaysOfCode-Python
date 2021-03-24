@@ -16,7 +16,7 @@ city = input("What's the name of the city you grew up in?\n")
 pet_name = input("What's the name of your pet?\n")
 
 #4. Combines the name of their city and pet and show them their band name.
-print("Your band name is " + city + " " + pet_name)
+print("Your band name is " + pet_name + " " + city)
 
 #5. Make sure the input cursor shows on a new line
 # \n means new line, the input given is printed on a new line
