@@ -13,7 +13,7 @@ Data Types, Numbers, Operations, Type Conversion, f-Strings </br>
 [DataTypeExercise](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-1-Data-Type-Conversion.py) | [BmiCalculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-3-life-in-weeks.py) | [LifeInWeeks](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-3-life-in-weeks.py) <br>
 Main Project • Built a [Tip calculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/Day-2-Project-Tip-Calculator.py) | Test it [here](https://repl.it/@terrykirungo/tip-calculator)
 
-## Day 3 OF 100-DaysOfCode-Python
+## [Day](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%203) 3 OF 100-DaysOfCode-Python
 Conditional Statements, Logical Operators, Code Blocks and Scope <br/>
 [EvenOdd](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%203/day-3-1-odd-or-even.py) | [Bmi-2](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%203/day-3-2-Bmi-2.py) | [LeapYear](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%203/day-3-3-leap-year.py) | [LoveScore](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%203/day-3-5-love-score.py) |[RollerCoaster](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%203/day-3-6-roller-coaster.py) <br>
 Main Project • [Africa Treasure Hunt](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%203/Day-3-Project-Africa-treasure-island-start.py) | Test it [here
