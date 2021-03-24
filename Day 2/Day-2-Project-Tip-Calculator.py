@@ -35,8 +35,10 @@ persons = int(input("How many people to split bill? "))
 # persons_to_split_bill = total bill / persons 
 #                       = 168 / 5 
 #                       = 33.6 
+
 percentage_tip = (tip/100) * bill
+contribute = round(bill/persons, 2)
 total_bill = bill + percentage_tip
 tip_given = round(total_bill / persons, 2) # rounds off the number to 2 decimal places
 
-print(f"Here's how much tip to give: Kes {tip_given}")
+print(f"Should everyone contribute equally, contribution per person should be {contribute} \n\tHere's how much tip to give: Kes {tip_given}")

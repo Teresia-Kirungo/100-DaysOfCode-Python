@@ -50,10 +50,10 @@ days_lived = years_lived * 365
 # print(f"your score is {score}, your height is {height}, your winning is {isWin}.")
 
 # prints years lived
-lived = f"Thou good and faithful servant, you have walked on this earth for {years_lived} years, {months_lived} months, {weeks_lived} weeks and {days_lived} days"
+lived = f"Thou good and faithful servant: \n\tYou have walked on this earth for {years_lived} years, {months_lived} months, {weeks_lived} weeks and {days_lived} days"
 print(lived)
 
 # print(years_left)
-display = f"You have {years_left} years, {days_left} days, {weeks_left} weeks, and {months_left} months left."
+display = f"\tTime left {years_left} years, {days_left} days, {weeks_left} weeks, and {months_left} months."
 print(display)
 print("Keep up with the good work!")
