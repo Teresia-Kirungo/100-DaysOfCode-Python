@@ -8,7 +8,7 @@ Printing, Commenting, Debugging, String Manipulation and Variables <br>
 [Hello World](https://replit.com/@terrykirungo/day-1-printing-start-1#main.py) | [Printing to the Console](https://replit.com/@terrykirungo/day-1-1-exercise-1#main.py) | [Debugging](https://replit.com/@terrykirungo/day-1-2-exercise-1#main.py) | [Variables](https://replit.com/@terrykirungo/day-1-4-variables) <br>
 Main Project • [Band-Name-Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/Day-1-Project-Band-Name-Generator.py) | Test it [here](https://repl.it/@terrykirungo/band-name-generator-start#main.py)
 
-## Day 2 OF 100-DaysOfCode-Python
+## [Day 2](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%202) OF 100-DaysOfCode-Python
 Data Types, Numbers, Operations, Type Conversion, f-Strings </br>
 [DataTypeExercise](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-1-Data-Type-Conversion.py) | [BmiCalculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-3-life-in-weeks.py) | [LifeInWeeks](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/day-2-3-life-in-weeks.py) <br>
 Main Project • Built a [Tip calculator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%202/Day-2-Project-Tip-Calculator.py) | Test it [here](https://repl.it/@terrykirungo/tip-calculator)
