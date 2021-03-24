@@ -1,11 +1,12 @@
-# 100-DaysOfCode-Python
+# [100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python)
 Started 100-DaysOfCode-Python on 19.01.2021, courtesy of [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu. Mastering Python by building 100 projects in 100 days. Learning to build websites, games, apps, plus scraping and data science.
 
 ### The challenge instructions are commented out within the first few lines of the file and right below it, is the source code.<br>
 ### Test out all my exercises on my [Repl](https://repl.it/repls).
 
-## Day 1 OF 100-DaysOfCode-Python
+## [Day 1](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%201) OF 100-DaysOfCode-Python
 Printing, Commenting, Debugging, String Manipulation and Variables <br>
+[Hello World](https://replit.com/@terrykirungo/day-1-printing-start-1#main.py) | [Printing to the Console](https://replit.com/@terrykirungo/day-1-1-exercise-1#main.py) | <br>
 Created [Day-1-Project-Band-Name-Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/Day-1-Project-Band-Name-Generator.py) | Test it [here](https://repl.it/@terrykirungo/band-name-generator-start#main.py)
 
 ## Day 2 OF 100-DaysOfCode-Python
