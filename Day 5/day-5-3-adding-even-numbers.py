@@ -10,3 +10,11 @@
 
 # Solution
 # Test it here: https://replit.com/@terrykirungo/day-5-3-adding-even-numbers
+
+# Write your code below this row 👇
+total_sum = 0
+for even in range(1, 101):
+    if even % 2 == 0:
+        total_sum += even
+       #print(total_sum)  if i print it on this indentation, it will execute inside this loop so it will give me all number addition in this loop
+print(total_sum) # If i have it here i'll have the final result only which is what we want!
