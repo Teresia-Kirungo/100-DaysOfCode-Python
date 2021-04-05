@@ -24,10 +24,10 @@ Randomisation and Python Lists </br>
 [Randomisation](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%204/day-4-1-randomisation.py) | [List](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%204/day-4-2-list.py) | [RandomPersonPaysBill](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%204/day-4-2-random-person-pays-bill.py) <br>
 Main Project • [Rock Paper Scissors](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%204/Day-4-Project-Rock-Paper-Scissors.py) | Test it [here](https://repl.it/@terrykirungo/Day-4-Project-Rock-Paper-Scissors)
 
-## [Day 5 OF 100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%205)
+## [Day 5](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%205)OF 100-DaysOfCode-Python
 For Loops, Range and Code Blocks <br>
 [For Loop](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/day-5-0-start.py) | [Average Height](https://repl.it/@terrykirungo/day-5-1-average-height#main.py) |
-Generates a password generator which uses the letters, symbols and numbers.
-Main Project • [Terri-PyPassword Generator!](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/Day-5-Project-Password-Generator.py) | Test it [here](https://replit.com/@terrykirungo/Day-5-Project-Password-generator#main.py)
+Generates a password generator which uses the letters, symbols and numbers. <br>
+Main Project • [Terri-PyPassword Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/Day-5-Project-Password-Generator.py) | Test it [here](https://replit.com/@terrykirungo/Day-5-Project-Password-generator#main.py)
 
 
