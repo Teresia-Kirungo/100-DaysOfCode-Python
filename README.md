@@ -37,4 +37,7 @@ For Loops, Range and Code Blocks <br>
 Most of Day 6 exercises involved solutions to the [Reeborg Python Games]()
 <br> Main Project [Reeborg](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
+## [Day 7](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%207) OF 100-DaysOfCode-Python
+Hangman Project <br>
+
 
