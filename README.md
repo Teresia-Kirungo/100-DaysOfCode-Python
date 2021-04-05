@@ -29,7 +29,7 @@ Main Project • [Rock Paper Scissors](https://github.com/Teresia-Kirungo/100-Da
 ## [Day 5](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%205) OF 100-DaysOfCode-Python
 For Loops, Range and Code Blocks <br>
 [For Loop](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/day-5-0-start.py) | [Average Height](https://repl.it/@terrykirungo/day-5-1-average-height#main.py) | [Highest Score](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/day-5-2-highest-score.py) | [Adding Even Numbers](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/day-5-3-adding-even-numbers.py) | [Fizz-Buzz](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/day-5-4-fizz-buzz.py) <br>
-Main Project- Generates a password generator which uses the letters, symbols and numbers.<br>
-• [Terri-PyPassword Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/Day-5-Project-Password-Generator.py) | Test it [here](https://replit.com/@terrykirungo/Day-5-Project-Password-generator#main.py)
+Main Project • Generates a password generator which uses the letters, symbols and numbers.<br>
+[Terri-PyPassword Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/Day-5-Project-Password-Generator.py) | Test it [here](https://replit.com/@terrykirungo/Day-5-Project-Password-generator#main.py)
 
 
