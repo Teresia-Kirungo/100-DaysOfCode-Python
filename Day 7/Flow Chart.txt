@@ -1,0 +1,8 @@
+Step 1. Generate a random word
+Step 2. Generate the same number of blanks that the generated word in (Step 1) has.
+Step 3. Ask the user to guess a letter.
+Step 4. Check if the letter given is in the word generated in (Step 1)
+Step 5. If it's there replace the blank with the letter
+  Step 5.1 Check if all blanks are filled, if yes end game if no loop back to (Step 3)
+Step 6. If it's not the man loses a life
+  Step 6.1 Check if they have run out of life, if yes Game Over if no loop back to(Step 3)
