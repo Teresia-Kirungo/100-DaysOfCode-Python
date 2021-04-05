@@ -20,7 +20,6 @@ for letter in range(1, nr_letters+1):
     random_letter = random.choice(letters)
     password = password + random_letter
     
-
 for number in range(1, nr_numbers +1):
     random_number = random.choice(numbers)
     password = password + random_number
@@ -29,8 +28,25 @@ for symbol in range(1, nr_symbols +1):
     random_symbol = random.choice(symbols)
     password = password + random_symbol
     
-    
-print(password)
+print(f"Your easy level password is {password}")
 
 #Hard Level - Order of characters randomised:
 #e.g. 4 letter, 2 symbol, 2 number = g^2jk8&P
+password_list = []
+for letter in range(1, nr_letters+1):
+    password_list += random.choice(letters)  
+    
+for number in range(1, nr_numbers +1):
+    password_list += random.choice(numbers)
+
+for symbol in range(1, nr_symbols +1):
+    password_list += random.choice(symbols) 
+
+# This is how we change the order of items in a list, we can use a for loop or the random.shuffle() function 
+random.shuffle(password_list)
+
+new_password =""
+for char in password_list:
+    new_password += char
+
+print(f"Your complex password is {new_password}")
