@@ -1,5 +1,7 @@
 # [100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python)
 Started 100-DaysOfCode-Python on 19.01.2021, courtesy of [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu. Mastering Python by building 100 projects in 100 days. Learning to build websites, games, apps, plus scraping and data science.
+<br>
+[![wakatime](https://wakatime.com/badge/github/Teresia-Kirungo/100-DaysOfCode-Python.svg)](https://wakatime.com/badge/github/Teresia-Kirungo/100-DaysOfCode-Python)
 
 ### The challenge instructions are commented out within the first few lines of the file and right below it, is the source code.<br>
 
