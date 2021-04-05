@@ -18,7 +18,17 @@ password = ""
 for letter in range(1, nr_letters+1):
     random_letter = random.choice(letters)
     password = password + random_letter
+    
+
+for number in range(1, nr_numbers +1):
+    random_number = random.choice(numbers)
+    password = password + random_number
+
+for symbol in range(1, nr_symbols +1):
+    random_symbol = random.choice(symbols)
+    password = password + random_symbol
     print(password)
+
 #e.g. 4 letter, 2 symbol, 2 number = JduE&!91
 
 
