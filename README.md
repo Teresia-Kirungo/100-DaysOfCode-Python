@@ -32,4 +32,9 @@ For Loops, Range and Code Blocks <br>
 Main Project • Generates a password generator which uses the letters, symbols and numbers.<br>
 [Terri-PyPassword Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%205/Day-5-Project-Password-Generator.py) | Test it [here](https://replit.com/@terrykirungo/Day-5-Project-Password-generator#main.py)
 
+## [Day 6](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%206) OF 100-DaysOfCode-Python
+For Loops, Range and Code Blocks <br>
+Most of Day 6 exercises involved solutions to the [Reeborg Python Games]()
+<br> Main Project [Reeborg](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+
 
