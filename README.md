@@ -1,7 +1,5 @@
 # [100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python)
 Started 100-DaysOfCode-Python on 19.01.2021, courtesy of [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/) by Dr. Angela Yu. Mastering Python by building 100 projects in 100 days. Learning to build websites, games, apps, plus scraping and data science.
-<br>
-[![wakatime](https://wakatime.com/badge/github/Teresia-Kirungo/100-DaysOfCode-Python.svg)](https://wakatime.com/badge/github/Teresia-Kirungo/100-DaysOfCode-Python)
 
 ### The challenge instructions are commented out within the first few lines of the file and right below it, is the source code.<br>
 
@@ -38,6 +36,8 @@ Most of Day 6 exercises involved solutions to the [Reeborg Python Games]()
 <br> Main Project [Reeborg](http://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
 ## [Day 7](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%207) OF 100-DaysOfCode-Python
-Hangman Project <br>
+Built the Hangman Project <br>
+[Step 1](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-1.py)| [Step 2](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-2.py) | [Step 3](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-3.py) | [Step 4](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-4.py) | [Step 5](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-5.py) <br>
+Main Project • [Hangman Project](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/Hangman-Project.py) | Test it [here](https://replit.com/@terrykirungo/Day-7-Hangman-Project)
 
 
