@@ -1,5 +1,5 @@
 #Step 3
-
+# Test it here: https://replit.com/@terrykirungo/Day-7-Hangman-3-Start#main.py
 import random
 word_list = ["aardvark", "baboon", "camel"]
 chosen_word = random.choice(word_list)
