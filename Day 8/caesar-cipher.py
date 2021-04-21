@@ -12,9 +12,12 @@ def caesar(start_text, shift_amount, cipher_direction):
     #Can you fix the code to keep the number/symbol/space when the text is encoded/decoded?
     #e.g. start_text = "meet me at 3"
     #end_text = "•••• •• •• 3"
-    position = alphabet.index(char)
-    new_position = position + shift_amount
-    end_text += alphabet[new_position]
+    if char in alphabet:
+        position = alphabet.index(char)
+        new_position = position + shift_amount
+        end_text += alphabet[new_position]
+    else:
+        end_text += char
     
   print(f"Here's the {cipher_direction}d result: {end_text}")
 
