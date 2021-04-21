@@ -11,9 +11,12 @@ def caesar(plain_text, shift_amount, direction_chosen):
     for letter in plain_text:
         letter_position = alphabet.index(letter)
         if direction_chosen == "decode":
-            shift_amount = shift_amount * -1
-            new_letter_position = letter_position +shift_amount
+            shift_amount *= -1
+            new_letter_position = letter_position + shift_amount
             end_text += alphabet[new_letter_position]
     print(f"The {direction_chosen}d text is{end_text}")
 
 caesar(plain_text = text, shift_amount= shift, direction_chosen=direction)
+
+#Test it 
+# https://replit.com/@terrykirungo/caesar-cipher-3-combined#main.py
