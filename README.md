@@ -40,4 +40,5 @@ Built the Hangman Project <br>
 [Step 1](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-1.py)| [Step 2](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-2.py) | [Step 3](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-3.py) | [Step 4](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-4.py) | [Step 5](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/day-7-hangman-5.py) <br>
 Main Project • [Hangman Project](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%207/Hangman-Project.py) | Test it [here](https://replit.com/@terrykirungo/Day-7-Hangman-Project)
 
-
+## [Day 8]() OF 100-DaysOfCode-Python
+Functions with Inputs
