@@ -38,3 +38,6 @@ shift = int(input("Type the shift number:\n"))
 shift = shift % 25
 
 caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
+
+# Test it here
+# https://replit.com/@terrykirungo/caesar-cipher-4-start#main.py
