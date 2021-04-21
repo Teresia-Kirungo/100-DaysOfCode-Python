@@ -31,3 +31,6 @@ def encrypt(plain_text, shift_amount):
 
 #TODO-3: Call the encrypt function and pass in the user inputs. You should be able to test the code and encrypt a message. 
 encrypt(plain_text=text,shift_amount=shift)
+
+# Test Code
+# https://replit.com/@terrykirungo/caesar-cipher-1-encrypt
