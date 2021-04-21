@@ -23,5 +23,9 @@ greet_with_name("Kelly")
 def greet_with(name, location):
     print(f"Hello {name}")
     print(f"How's the weather like in {location}?")
+    print("\n")
 
 greet_with("Terry","London")
+
+#Calling the function with keyword arguments
+greet_with(name = "Mary",location = "Bethlehem")
