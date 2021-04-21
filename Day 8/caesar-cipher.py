@@ -26,18 +26,24 @@ def caesar(start_text, shift_amount, cipher_direction):
 #e.g. Type 'yes' if you want to go again. Otherwise type 'no'.
 #If they type 'yes' then ask them for the direction/text/shift again and call the caesar() function again?
 #Hint: Try creating a while loop that continues to execute the program if the user types 'yes'. 
+should_continue = True
+while should_continue:
+    direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
+    text = input("Type your message:\n").lower()
+    shift = int(input("Type the shift number:\n"))
 
-direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
-text = input("Type your message:\n").lower()
-shift = int(input("Type the shift number:\n"))
+    #TODO-2: What if the user enters a shift that is greater than the number of letters in the alphabet?
+    #Try running the program and entering a shift number of 45.
+    #Add some code so that the program continues to work even if the user enters a shift number greater than 26. 
+    #Hint: Think about how you can use the modulus (%).
+    shift = shift % 25
 
-#TODO-2: What if the user enters a shift that is greater than the number of letters in the alphabet?
-#Try running the program and entering a shift number of 45.
-#Add some code so that the program continues to work even if the user enters a shift number greater than 26. 
-#Hint: Think about how you can use the modulus (%).
-shift = shift % 25
+    caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
 
-caesar(start_text=text, shift_amount=shift, cipher_direction=direction)
+    result = input("Type 'yes' if you want to go again. Otherwise type 'no'.\n")
+    if result == "no":
+        should_continue = False
+        print("This has been fun! Goodbye")
 
 # Test it here
 # https://replit.com/@terrykirungo/caesar-cipher-4-start#main.py
