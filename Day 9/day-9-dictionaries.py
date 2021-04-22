@@ -17,3 +17,6 @@ programming_dictionary["Terry"] = "You are going to be a kick-ass woman in Tech.
 
 # To print the entire dictionary
 print(programming_dictionary)
+
+# Test it here
+# https://replit.com/@terrykirungo/day-9-start#main.py
