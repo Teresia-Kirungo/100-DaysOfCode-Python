@@ -27,6 +27,7 @@
 # Test Your Code
 # https://replit.com/@terrykirungo/day-9-1-exercise#main.py
 
+
 student_scores = {
   "Harry": 81,
   "Ron": 78,
@@ -42,7 +43,10 @@ student_grades = {}
 #TODO-2: Write your code below to add the grades to student_grades.👇
 
 for score in student_scores:
+# A for loop that loops through the keys in the student_scores
     grade = student_scores[score]
+    # the new variable grade is initialised to the 'value' of the 'keys' in student_scores
+    # In the if statement we compare the 'value' of the key which represents the grade to the scoring grades set, to see which category they fall under. 
     if grade > 90 :
         student_grades[score]= "Outstanding"
     elif grade > 80:
