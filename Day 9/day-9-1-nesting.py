@@ -27,4 +27,5 @@ travel_log = [
   },
 ]
 
-
+# Test it here
+# https://replit.com/@terrykirungo/day-9-start-1#nesting.py
