@@ -1,0 +1,35 @@
+Day 1 - Learning about Strings, String Manipulation, Printing, Inputing, Errors, Variables and Debugging
+
+Code Texts to remember 👇
+
+Fun Fact; The most popular Python local code editor is Pycharm. 
+A string -> Is a string of characters
+The hashtag sign id for comments
+Stack overflow is your friend
+This sign ^ is an error is called a caret sign it highlights where the error is on the code
+From here you'll join the coding rooms
+
+Step 1 -  Register for a free account on Coding Rooms
+https://app.codingrooms.com/signup
+Step 2 - Click on this link to join our classroom
+https://app.codingrooms.com/management/courses/join-by-code/4J6slZE6
+
+👇 Here is a link for your coding rooms 👇
+https://app.codingrooms.com/management/courses/6387/classes/8480/assignments
+
+\n means new line
+\n means tab
+Syntax error is mostly associated with errors in the string.
+Indentation is very very important in Python! pay attention
+Text editors have code Intelligence which helps you complete your code or gives you hints on code that is not done correctly.
+The console will always give you hints of the mistakes you make
+
+THNGS TO NOTE
+f-strings are a great way to format strings. Not only are they more readable, more concise, and less prone to error than other ways of formatting, but they are also faster!
+
+👇This is an example of how f-strings are used👇
+print(f"Hi {name}, your name is {characterNumber} characters long.")
+
+It always takes longer to get the grip of something when you are starting; keep at it!
+
+Day 1 Complete!
