@@ -1,11 +1,7 @@
 # Music Band Name Generator
-# Instructions : 👇
-# Write a program that welcomes the user to the  Music Band Name Generator. 
-# The Name Generator prompts a user for the name of the City they grew up in and the name of their pet. 
-# The Name Generator then combines these two names to give the user their Band Name.
+# Instructions : https://replit.com/@terrykirungo/Day-1-Project-Music-Band-Name-Generator
 
 # Source Code
-
 #1. Creates a greeting that welcomes the user to the Band Name Generator.
 print("Welcome to the Music Band Name Generator.")
 
@@ -25,4 +21,4 @@ print(f"Your generated Music band-Name is {city} {pet_name} ")
 # \n means new line, the input given is printed on a new line
 
 # Test it here: 👇
-# https://replit.com/@terrykirungo/Music-band-name-generator-start#main.py
+# https://replit.com/@terrykirungo/Day-1-Project-Music-Band-Name-Generator#main.py
