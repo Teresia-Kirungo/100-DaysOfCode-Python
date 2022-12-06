@@ -1,0 +1,29 @@
+Learning; working with numbers, and conversion types
+TypeError happens when we mix data types
+Data Types include: 
+  -> Strings - "hellow"
+  -> Intergers - whole numbers 123,456
+  -> Float - Numbers with decimal places 12.54
+  -> Booleans - True and False 
+  
+Subscripting pulling out a letter from a string using square brackets []:
+  e.g like if we have "hello" and we want to pull out "h"
+  -> we'll write print("Hello"[0]) this will pop out the letter "H"
+  
+Functions
+type() helps us know the type of data type we are working with
+  print(type(Variable)) #print the data type of the variable
+type conversion or type casting; changing one type of data to another 
+  e.g theVariableWeAreConverting = str(variableWeWantToConvert) #converst the variable data type to a string
+  
+Maths Operations
+  Add +
+  Minus -
+  Multiply *
+  Divide /
+  Power  **
+  When it comes to Maths we use PEMDAS -> Parentheses, Exponents, Multiplication, Division, Addition, Subtraction.
+  round(number/number) rounds off a number to the nearest whole number
+  round(number/number, 2) rounds up a number two decimal places or any number you set this value to
+  number //number  floor division rounds off automatically to two decimal places
+  number = number + 1, can be written as number += 1
