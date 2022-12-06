@@ -1,5 +1,5 @@
 # Printing to the Console
-# Instructions: https://replit.com/@terrykirungo/1-printing-to-console#README.md
+# Instructions: https://replit.com/@terrykirungo/1-printing-to-console
 
 #Write your code below this line 
 print("Day 1 - Python Print Function")

@@ -1,5 +1,5 @@
 # Inputs
-# Instructions: https://replit.com/@terrykirungo/3-inputs-function#README.md
+# Instructions: https://replit.com/@terrykirungo/3-inputs-function
 
 #Write your code below this line 
 name = input("Hello, what is your name? ")

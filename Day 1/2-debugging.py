@@ -1,5 +1,5 @@
 # Debugging
-# Instructions: https://replit.com/@terrykirungo/2-debugging#README.md
+# Instructions: https://replit.com/@terrykirungo/2-debugging
 
 # New lines can be created with a backslash and n.
 
