@@ -1,5 +1,7 @@
-# Heads or Tails 🎲
+# Dice Heads or Tails 🎲
 # Instructions: https://replit.com/@terrykirungo/2-heads-or-tails
+
+#import the randomisation module
 import random
 
 # randomly picks a whole number(interger) between 0 and 1

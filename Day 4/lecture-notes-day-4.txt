@@ -1,0 +1,21 @@
+Learning about randomisation and Python Lists
+
+Use of the random module; to build the rock, paper, scissoors game
+In order to use the random module as seen in file 4-1-randomisation.py we first need to import a random library
+  -> import random #this is the random library
+  -> random.randint(1)
+  
+A module is each of a set of standardized parts or independent units that can be used to construct a more complex structure, such as an item of furniture or a building.
+
+In Python Modules refer to a file containing Python statements and definitions. We use modules to break down large programs into small manageable and organized files; random is an example of a module.
+
+If you need help in using random modules check out askpython.com
+
+List; A data structure -> a way of organizing and storing data in Python. Varibales store single pieces of data while data structures like Lists in Python store grouped pieces of data, data that has some sort of connection with each other.
+
+Arrays in JavaScript are what Lists are in Python
+Arr =[Item1, Item2, Item3] in JS
+List = [Item1, Item2, Item3] in Python
+
+Split function, enables you to split or separate a string into a List(separate components) based on some sort of divider like a comma or a fullstop or any symbol of your choice.
+-> variable.split(", ")
