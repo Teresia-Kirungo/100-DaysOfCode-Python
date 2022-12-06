@@ -1,0 +1,18 @@
+# List
+fruits = ["Apple", "Orange", "Mango"]
+
+#for, followed by a keyword(name), we choose to give to a single item - in our code below the word is tunda - in the list followed the actual name of the list we want to iterate through
+# Everytime the for loop runs the variable tunda is assigned to an item in the fruits list i.e
+
+for tunda in fruits:
+    # Everytime the for loop runs the variable tunda is assigned to an item in the fruits list 
+    print(tunda)
+    # Prints items(the fruits) in the list while adding Pie to the name
+    print("Here's an " + tunda + " pie") 
+    
+    # indentation is really important in for loops; everything that's indented after the for loop is inside the for loop
+    # i.e Apple
+    # Here's an Apple pie
+    # It excutes until the last item in the List
+
+# Test it here: https://replit.com/@terrykirungo/1-for-loop#main.py
