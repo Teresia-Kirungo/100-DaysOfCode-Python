@@ -39,3 +39,5 @@ elif (score >= 40) and (score <= 50):
   print(f"Your score is {score}, you are alright together.")
 else:
   print(f"Your score is {score}.")
+
+# Test it here: https://replit.com/@terrykirungo/5-love-score#main.py
