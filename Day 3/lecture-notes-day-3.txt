@@ -1,0 +1,39 @@
+What we will learn; condiional statements, logcal operations and local and global naming
+At the end of ot all you will build a Treasure Island.
+
+An if/else statement is a type of a conditional statemrnt; depending on a particular condition we weould do either a or b.This is what the code-block would look like:
+Source Code looks like this: 👇
+
+if condition:
+  do this
+else
+  do this
+
+Comparison Operators 
+  > greater than operator
+  < less than operator
+  >= greater than or equal to operator
+  <= less than or equal to operator
+  == equality operator checks for eqaul to
+  =! NOT equality operator checks for eqaul to
+
+= assignment operator
+
+> greater than operator
+< less than operator
+>= greater than or equal to operator
+<= less than or equal to operator
+% divides a number and gives you a remainder of a number
+  Example: 7 % 2 this gives you 1 -> it gives you the remainder once a number is divided by another.
+           6 % 2 gives you zero because there's no reminder
+           
+Supposing we have more than one condition, an extra condition, to check we use a Nested if/else
+Source Code looks like this: 👇
+
+if condition:
+  if another condition:
+    do this
+   else:
+    do this
+else:
+  do this
