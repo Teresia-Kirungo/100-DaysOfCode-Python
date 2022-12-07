@@ -1,0 +1,13 @@
+Day 8
+Functions with Inputs
+Building the Cipher Program
+Caeser Cipher encryption; when Caeser wanted to send his messages he would encode each message each letter would be shifted by a pre-determined amount.
+You'll build an encrypted message, you'll provide the shift number which will help in its decode
+
+Functions with Inputs
+- function(Parameter) with Parameters
+- The parameter is the name of the data,used inside a function to refer to the argument 
+- It's is like a variable but for a function
+
+Arguments and parameters
+- function(Argument) Argument - Actual piece of data passed into a function when it's callled -like a value in a variable
