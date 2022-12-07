@@ -1,0 +1,8 @@
+We are going to be learning about For Loops, Range and Code Blocks.
+Loops - things that have to happen over and over again.
+
+Using the for loop with python lists
+for loops: allow you to go through each item in a list and perform an action with each individual item.
+A for loop enables us to execute multiple statemnents, many times
+Indentation is really important in a for loop. 
+Indentation is really important in for loops; everything that's indented after the for loop is inside the for loop
