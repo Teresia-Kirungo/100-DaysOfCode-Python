@@ -1,0 +1,16 @@
+We are learning about Code blocks, indentation, functions and while loops.
+We did this using the Karel -Reeborg Robot.
+Functions we've already used; len() function
+When we want to start our own functions we start with a keyword def e'g
+
+def the_name_of_the_function():
+  #Do this
+  #Then do this
+  #Finally do this
+
+A function can have inputs e'.g
+def the_name_of_the_function(input):
+  #Do this
+  
+ # Calling the function
+ the_name_of_the_function()
