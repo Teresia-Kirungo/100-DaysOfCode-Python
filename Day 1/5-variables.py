@@ -1,5 +1,5 @@
 # Variables
-# Instructions: https://replit.com/@terrykirungo/4-variables
+# Instructions: https://replit.com/@terrykirungo/5-variables
 
 
 # 🚨 Don't change the code below 👇
@@ -24,4 +24,4 @@ print("b: " + b)
 
 
 # Test it here: 👇
-# https://replit.com/@terrykirungo/4-variables#main.py
+# https://replit.com/@terrykirungo/5-variables#main.py

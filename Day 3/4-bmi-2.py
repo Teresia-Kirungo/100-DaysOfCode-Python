@@ -1,5 +1,5 @@
 # BMI 2 
-# Instructions: https://replit.com/@terrykirungo/2-bmi-2
+# Instructions: https://replit.com/@terrykirungo/4-bmi-2
 
 # 🚨 Don't change the code below 👇
 height = float(input("enter your height in m: "))
@@ -19,4 +19,4 @@ elif bmi < 35.0:
 else:
   print(f"Your BMI is {bmi}, you are clinically obese.")
 
-#Test it here: https://replit.com/@terrykirungo/2-bmi-2#main.py
+#Test it here: https://replit.com/@terrykirungo/4-bmi-2#main.py

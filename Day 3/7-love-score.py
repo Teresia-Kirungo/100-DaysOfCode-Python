@@ -1,5 +1,5 @@
 # Love Calculator
-# Instructions: https://replit.com/@terrykirungo/5-love-score
+# Instructions: https://replit.com/@terrykirungo/7-love-score
 
 # 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
@@ -40,4 +40,4 @@ elif (score >= 40) and (score <= 50):
 else:
   print(f"Your score is {score}.")
 
-# Test it here: https://replit.com/@terrykirungo/5-love-score#main.py
+# Test it here: https://replit.com/@terrykirungo/7-love-score#main.py

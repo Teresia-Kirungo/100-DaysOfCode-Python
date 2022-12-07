@@ -1,5 +1,5 @@
 # Pizza Order
-# Instructions: https://replit.com/@terrykirungo/4-pizza-program
+# Instructions: https://replit.com/@terrykirungo/6-pizza-program
 
 
 # 🚨 Don't change the code below 👇
@@ -39,4 +39,4 @@ if extra_cheese== "Y":
 
 print(f"Your final bill is ${bill}")
 
-# Test it here: https://replit.com/@terrykirungo/4-pizza-program#main.py
+# Test it here: https://replit.com/@terrykirungo/6-pizza-program#main.py

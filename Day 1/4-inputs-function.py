@@ -1,5 +1,5 @@
 # Inputs
-# Instructions: https://replit.com/@terrykirungo/3-inputs-function
+# Instructions: https://replit.com/@terrykirungo/4-inputs-function
 
 #Write your code below this line 
 name = input("Hello, what is your name? ")
@@ -15,4 +15,4 @@ print(f"Hi {name}, your name is {characterNumber} characters long.")
 print(len(input("What is your other name? "))) 
 
 # Test it here: 👇
-# https://replit.com/@terrykirungo/3-inputs-function#main.py
+# https://replit.com/@terrykirungo/4-inputs-function#main.py

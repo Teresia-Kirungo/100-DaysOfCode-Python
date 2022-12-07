@@ -1,5 +1,5 @@
 # Hello World
-# Instructions: https://replit.com/@terrykirungo/0-1-printing-start-1
+# Instructions: https://replit.com/@terrykirungo/1-printing
 # Write your code below this line - this is a comment
 
 # print() function, displays what you want it to display/print.
@@ -17,4 +17,4 @@ input("What is your name? ")
 # what is your name will be printed first, then the whole script 
 print('Hello! ' + input("What is your friend's name? "))
 
-#Test it here: https://replit.com/@terrykirungo/0-1-printing-start-1#main.py
+#Test it here: https://replit.com/@terrykirungo/1-printing#main.py

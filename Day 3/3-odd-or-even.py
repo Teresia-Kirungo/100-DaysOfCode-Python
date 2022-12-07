@@ -1,5 +1,5 @@
 # Odd or Even
-# Instructions: https://replit.com/@terrykirungo/1-odd-or-even
+# Instructions: https://replit.com/@terrykirungo/3-odd-or-even
 # Even numbers can be divided by 2 with no remainder. 
 # e.g. 86 is **even** because 86 ÷ 2 = 43, 43 does not have any decimal places. Therefore the division is clean.
 
@@ -25,4 +25,4 @@ if number % 2 == 0:
 else:
   print("This is an odd number")
 
-# Test it here: https://replit.com/@terrykirungo/1-odd-or-even#main.py
+# Test it here: https://replit.com/@terrykirungo/3-odd-or-even#main.py

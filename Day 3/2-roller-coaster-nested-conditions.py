@@ -1,6 +1,8 @@
-# Cleaner Roller Coaster
+# Supposing we have more than one condition, to check before someone uses the rollercoaster we use a Nested if/else
+# Source Code looks like this: 👇
+
 print("Welcome to the rollercoaster!")
-height = int(input("What is your height in cm? "))
+height = float(input("What is your height in cm? ")) #use of float to accomodate both whole numbers and whole numbers with decimal points
 bill = 0
 
 if height >= 120:
@@ -28,4 +30,4 @@ if height >= 120:
 else:
   print("Sorry, you have to grow taller before you can ride.")
 
-#Test it here: https://replit.com/@terrykirungo/6-roller-coasterpy#main.py
+# Test it here: https://replit.com/@terrykirungo/2-roller-coaster-nested-conditions#main.py

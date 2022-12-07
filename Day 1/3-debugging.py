@@ -1,5 +1,5 @@
 # Debugging
-# Instructions: https://replit.com/@terrykirungo/2-debugging
+# Instructions: https://replit.com/@terrykirungo/3-debugging
 
 # New lines can be created with a backslash and n.
 
@@ -14,4 +14,4 @@ print('e.g. print("Hello " + "world")')
 print("New lines can be created with a backslash and n.")
 
 # Test The code here:👇
-# https://replit.com/@terrykirungo/2-debugging#main.py
+# https://replit.com/@terrykirungo/3-debugging#main.py

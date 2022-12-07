@@ -60,4 +60,4 @@ elif total_score > 40 and total_score < 50:
 else:
     print(f"Your score is {total_score}.")
     
-# Test it here: https://replit.com/@terrykirungo/5-1-love-score-using-loop#main.py 
+# Test it here: https://replit.com/@terrykirungo/8-love-score-using-loop#main.py 

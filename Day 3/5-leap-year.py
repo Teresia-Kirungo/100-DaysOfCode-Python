@@ -1,5 +1,5 @@
 # Leap Year Challenge
-# Instructions: https://replit.com/@terrykirungo/3-leap-year
+# Instructions: https://replit.com/@terrykirungo/5-leap-year
 
 # 🚨 Don't change the code below 👇
 year = int(input("Which year do you want to check? "))
@@ -19,4 +19,4 @@ if year % 4 == 0:
 else:
   print("Not leap year.")
 
-# Test it here: https://replit.com/@terrykirungo/3-leap-Year#README.md
+# Test it here: https://replit.com/@terrykirungo/5-leap-Year#README.md
