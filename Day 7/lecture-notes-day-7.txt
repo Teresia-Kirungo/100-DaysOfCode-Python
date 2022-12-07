@@ -1,0 +1,17 @@
+Building a Hangman project
+You have to guess a letter and for every wrong letter, your "hangman" loses a life; in this case a part of the body.
+If you guess the right word, the number of lives remain intact.
+
+Here's the hangman Program flow simple version:
+1) Generate a random word.
+2) Go to step (3)
+
+Here's the hangman Program flow hard version:
+1) Generate random words and add them in a list.
+2) From the list, pick a random word
+
+3) Generate as many black as letters in the word in (2)
+4) Provide the first letter of the word
+5) Ask the user to guess a letter in that word
+6) If the guessed letter is in the word, replace the blank space with that letter; display life preserved!
+7) If the guessed letter is not in the word the blank remains blank; and the hangman loses a life.
