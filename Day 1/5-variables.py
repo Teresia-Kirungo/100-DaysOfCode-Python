@@ -1,7 +1,6 @@
 # Variables
 # Instructions: https://replit.com/@terrykirungo/5-variables
 
-
 # 🚨 Don't change the code below 👇
 a = input("a: ")
 b = input("b: ")

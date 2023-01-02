@@ -30,6 +30,10 @@ Indentation is very very important in Python! Pay attention
 Text editors have code Intelligence which helps you complete your code or gives you hints on code that is not done correctly.
 The console will always give you hints of the mistakes you make
 
+Variables are used to store data values in a programming language e.g name = James
+
+⭐ Best Practice; Have sensible variable names, and clean code.
+
 THNGS TO NOTE
 f-strings are a great way to format strings. Not only are they more readable, more concise, and less prone to error than other ways of formatting, but they are also faster!
 
