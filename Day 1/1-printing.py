@@ -11,7 +11,7 @@ print("\t My name is Terry, welcome to my Python Playbook!")
 # + means Concatenation, in this case it's joining two strings
 print("Book" + " Mark!") 
 
-# input() function when we need feedback from the user
+# input() function when we need feedback/input from the user
 input("What is your name? ")
 
 # what is your name will be printed first, then the whole script 
