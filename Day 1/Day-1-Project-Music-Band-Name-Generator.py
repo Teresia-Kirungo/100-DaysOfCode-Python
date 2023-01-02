@@ -12,7 +12,7 @@ city = input("What's the name of the city you grew up in?\n")
 pet_name = input("What's the name of your pet?\n")
 
 #4. Combines the name of their city and pet and show them their band name.
-print("Your band name is " + pet_name + " " + city)
+print("Band name is " + pet_name + " " + city)
 
 # This can also be written like this because of using f-string
 print(f"Your generated Music band-Name is {city} {pet_name} ")
