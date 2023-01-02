@@ -21,6 +21,11 @@ https://app.codingrooms.com/management/courses/6387/classes/8480/assignments
 \n means tab
 Syntax error is mostly associated with errors in the syntax of the code in this case the string.
 
+String Concatenation is used to join two items of the same data type. Concatenation is the joining of two data items.
+String Concatenation is done with the + sign.
+
+\"+\" use of the forward slash is to tell the computer the "" in between are also to be printed.
+
 Indentation is very very important in Python! Pay attention
 Text editors have code Intelligence which helps you complete your code or gives you hints on code that is not done correctly.
 The console will always give you hints of the mistakes you make
