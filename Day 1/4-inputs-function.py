@@ -1,7 +1,9 @@
-# Inputs
+# Input Function
 # Instructions: https://replit.com/@terrykirungo/4-inputs-function
 
-#Write your code below this line 
+#Write your code below this line
+
+#The input() function is used when we need feedback/input from the user. 
 name = input("Hello, what is your name? ")
 
 #len() function counts the number of characters in a string
