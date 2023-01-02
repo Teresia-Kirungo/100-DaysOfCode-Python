@@ -1,16 +1,14 @@
 # [100-DaysOfCode-Python](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python)
 Mastering Python by building 100 projects in 100 days. Learning to build websites, games, apps, plus scraping and data science.
 
-### The challenge instructions are commented out within the first few lines of the file and right below it, is the source code.<br>
-
-## Coding rooms for the [Interactive Exercises](https://app.codingrooms.com/management/courses/6387/classes/8480/assignments) <br>
+### Coding rooms for the [Interactive Exercises](https://app.codingrooms.com/management/courses/6387/classes/8480/assignments) <br>
 
 ### Here's the [repl link](https://replit.com/repls/folder/100%20Days%20Of%20Code%20Python) | Python Tutor [Visualizer](https://pythontutor.com/visualize.html#mode=edit) <br>
 
 ## [Day 1](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%201) OF 100-DaysOfCode-Python
 Printing, Commenting, Debugging, String Manipulation and Variables <br>
-[Hello World - Printing To Start](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/day-1-0-printing-start-1.py) | [Printing to the Console](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/day-1-1-printing-to-console.py) | [Debugging](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/day-1-2-debugging.py) | [Input Function](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/day-1-3-inputs-function.py) | [Variables](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/day-1-4-variables.py) <br>
-Main Project • [Music-Band-Name-Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/Day-1-Project-Music-Band-Name-Generator.py) | Test it [here](https://replit.com/@terrykirungo/Music-band-name-generator-start#main.py)
+[Hello World - Print](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/1-printing-hello-world.py) | [Printing to the Console](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/2-printing-to-console.py) | [Debugging](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/3-debugging-and-concatenation.py) | [Input Function](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/4-inputs-function.py) | [Variables](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/5-variables.py) <br>
+Main Project • [Music-Band-Name-Generator](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/blob/main/Day%201/Day-1-Project-Music-Band-Name-Generator.py) | Test it [here](https://replit.com/@terrykirungo/Day-1-Project-Music-Band-Name-Generator#main.py)
 
 ## [Day 2](https://github.com/Teresia-Kirungo/100-DaysOfCode-Python/tree/main/Day%202) OF 100-DaysOfCode-Python
 Data Types, Numbers, Operations, Type Conversion, f-Strings </br>
