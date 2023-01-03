@@ -27,7 +27,8 @@ Maths Operations
   Divide /
   Power  **
   When it comes to Maths we use PEMDAS -> Parentheses, Exponents, Multiplication, Division, Addition, Subtraction.
-  round(number/number) rounds off a number to the nearest whole number
-  round(number/number, 2) rounds up a number two decimal places or any number you set this value to
-  number //number  floor division rounds off automatically to two decimal places
+  round(number/number) -> rounds off a number to the nearest whole number
+  round(number/number, 2) -> rounds up a number to two decimal places or any number you set this value to
+  number
+  //number -> floor division rounds off automatically to two decimal places
   number = number + 1, can be written as number += 1

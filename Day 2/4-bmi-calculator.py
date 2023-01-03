@@ -7,8 +7,8 @@ weight = input("Enter your weight in Kilograms(kg): ")
 # 🚨 Don't change the code above 👆
 
 # Write your code below this line 👇
-print(type(height), height) #checks the data type of the height which is a str
-print(type(weight), weight) #checks the data type of the weight which is a str
+print(height, "which is height is a", type(height)) #checks the data type of the height which is a str
+print(weight, "which is the weight is a", type(weight)) #checks the data type of the weight which is a str
 
 # Conversion of the data types to intergers
 # 👇opted to use the float data types incase a user uses a whole number or one with a decimal point 👇
@@ -16,8 +16,8 @@ new_height = float(height)
 new_weight = float(weight)
 
 # Confirms if the data type conversion was successful
-print(type(new_height))
-print(type(new_weight))
+print("Height data type conversion to",type(new_height))
+print("Weight data type conversion to",type(new_weight))
 
 # Calculation of the bmi, the int() function converts the float to an interger(a whole number without a decimal)
 bmi = int(new_weight / (new_height * new_height))
