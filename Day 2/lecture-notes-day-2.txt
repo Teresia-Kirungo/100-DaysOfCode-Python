@@ -1,14 +1,16 @@
-Learning; working with numbers, and conversion types
-TypeError happens when we mix data types
+Day 2: Data Types, Numbers, Operations, Type Conversion, f-Strings 
+
 Data Types include: 
-  -> Strings - "hellow"
-  -> Intergers - whole numbers 123,456
-  -> Float - Numbers with decimal places 12.54
-  -> Booleans - True and False 
-  
+  -> Strings - "hello"
+  -> Intergers - whole numbers -> 123,456
+  -> Float - Numbers with decimal places-> 12.5446 
+  -> Booleans are either True or False. Booleans don't have quotation marks around them. It should be bool = False
+
+TypeError happens when we mix data types e.g strings and numbers.
+
 Subscripting pulling out a letter from a string using square brackets []:
-  e.g like if we have "hello" and we want to pull out "h"
-  -> we'll write print("Hello"[0]) this will pop out the letter "H"
+  e.g if we have "hello" and we want to pull out "h"
+  -> we'll write print("Hello"[0]) this will pop out the letter "H", the letter at index 0
   
 Functions
 type() helps us know the type of data type we are working with
