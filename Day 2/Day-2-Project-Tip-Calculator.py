@@ -22,6 +22,6 @@ percentage_tip = round((tip/100) * bill, 2)
 total_bill_plus_tip = bill + percentage_tip
 contribution_per_person = round(total_bill_plus_tip/persons, 2)
 
-print(f"Here's a breakdown of your bill: \n\tFood bill {bill}, \n\tTip given {percentage_tip}, \n\tContribution per person {contribution_per_person}, \n\tYour total bill is therefore {total_bill_plus_tip}")
+print(f"Here's a breakdown of your bill: \n\tFood bill = ${bill}, \n\tTip given = ${percentage_tip}, \n\tEach person should contribute = ${contribution_per_person}, \n\tYour total bill is therefore = ${total_bill_plus_tip}")
 
 # Test it here: https://replit.com/@terrykirungo/Day-2-Project-Tip-Calculator#main.py
