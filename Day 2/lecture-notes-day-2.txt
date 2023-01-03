@@ -17,6 +17,8 @@ type() helps us know the type of data type we are working with
   print(type(Variable)) #print the data type of the variable
 type conversion or type casting; changing one type of data to another 
   e.g theVariableWeAreConverting = str(variableWeWantToConvert) #converst the variable data type to a string
+
+Type conversion is also known as type casting. Type function is used to investigate the type of data you are working with.
   
 Maths Operations
   Add +
