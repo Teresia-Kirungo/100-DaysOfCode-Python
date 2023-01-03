@@ -35,4 +35,7 @@ Maths Operations
 
 f-strings
 f-strings make it easy for us to use different data types in the same line of code.
-f-strings are a great new way to format strings. 
+f-strings are a great new way to format strings.
+f-string, allows us to be able to print different data types in one print statement, example below
+  score = 12
+  print(f"your score is {score}.")
