@@ -41,10 +41,10 @@ days_left = years_left * 365
 # print(f"your score is {score}, your height is {height}, your winning is {isWin}.")
 
 # prints years lived
-print(f"\tThou good and faithful servant: \nYou have walked on this earth for {new_age} years, {months_lived} months, {weeks_lived} weeks and {days_lived} days\n") 
+print(f"You have walked on this earth for\n\t {new_age} years, {months_lived} months, {weeks_lived} weeks and {days_lived} days.") 
 
 # print(years_left)
-display = f"Supposing you were to live upto 120 years, you have {years_left} years, {months_left} months, {weeks_left} weeks, and {days_left} days.Live well!"
+display = f"If you were to live upto 120 years: \n\tyou have {years_left} years, {months_left} months, {weeks_left} weeks, and {days_left} days."
 print(display)
 
 # Test it here: https://replit.com/@terrykirungo/5-life-in-weeks#main.py
