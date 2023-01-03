@@ -5,7 +5,6 @@
 print("'Hello[0]' prints the first letter of the word " + "Hello"[0])
 print("'World[-1]' prints the last letter of the word " + "World"[-1])
 
-
 print("Terry"[0]) #prints the first letter of the word T
 
 #String -> because of the curly braces around the intergers

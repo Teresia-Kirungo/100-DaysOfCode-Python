@@ -1,5 +1,8 @@
+#Data Type Conversion
+
 num_char = len(input("What is your name? "))
-print(f"Your name is an {type(num_char)}") # num_char is an int data type
+
+print(type(num_char)) # num_char is an int data type because of the len function.
 
 new_num_char = str(num_char) #converts num_char to a string
 
