@@ -32,3 +32,7 @@ Maths Operations
   number
   //number -> floor division rounds off automatically to two decimal places
   number = number + 1, can be written as number += 1
+
+f-strings
+f-strings make it easy for us to use different data types in the same line of code.
+f-strings are a great new way to format strings. 
