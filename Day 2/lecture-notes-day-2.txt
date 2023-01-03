@@ -39,3 +39,7 @@ f-strings are a great new way to format strings.
 f-string, allows us to be able to print different data types in one print statement, example below
   score = 12
   print(f"your score is {score}.")
+
+Keep going, and get this in the bag
+
+Day 2 Complete!
