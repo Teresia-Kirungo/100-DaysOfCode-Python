@@ -23,7 +23,7 @@ Comparison Operators
 < less than operator
 >= greater than or equal to operator
 <= less than or equal to operator
-% divides a number and gives you a remainder of a number
+% modulus operator it divides a number and gives you a remainder of the division
   Example: 7 % 2 this gives you 1 -> it gives you the remainder once a number is divided by another.
            6 % 2 gives you zero because there's no reminder
            
