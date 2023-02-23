@@ -17,7 +17,7 @@ Comparison Operators
   == equality operator checks for eqaul to
   =! NOT equality operator checks for eqaul to
 
-= assignment operator
+= assignment operator, asigns a value to a variable
 
 > greater than operator
 < less than operator
