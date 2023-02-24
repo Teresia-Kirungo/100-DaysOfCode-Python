@@ -2,8 +2,8 @@
 
 # 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
-name1 = input("What is your name? \n")
-name2 = input("What is their name? \n")
+name1 = input("What is your name? \t")
+name2 = input("What is their name? \t")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
@@ -44,6 +44,8 @@ for character in both_names:
         love_count = love_count + 1
     elif character == "E":
         love_count = love_count + 1
+    
+# prints the total number of times the letters of LOVE appear in the combined name
 print(love_count)
 
 #Concatenates the love_score through conversion to str, e.g 5 and 8 become 58
