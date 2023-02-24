@@ -3,25 +3,26 @@
 
 # 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
-name1 = input("What is your name? \n")
-name2 = input("What is their name? \n")
+name1 = input("What is your name? \t")
+name2 = input("What is their name? \t")
 # 🚨 Don't change the code above 👆
 
 #Write your code below this line 👇
-both_names = name1 + name2
+both_names = name1 + name2 #concatenation
 
 # lower() converts a string from uppercase
 lower_case_names = both_names.lower()
 
-# Check for the number of times true appears
-t = lower_case_names.count("t")
+# Checks for the number of times the letters of the word true appears
+t = lower_case_names.count("t") #data type int, that's why count can loop through the lowercase names and count
 r = lower_case_names.count("r")
 u = lower_case_names.count("u")
 e = lower_case_names.count("e")
 
 true = t + r + u + e
+print(true)
 
-# Check for the number of times love appears
+# Checks for the number of times the letters of the word love appears
 l = lower_case_names.count("l")
 o = lower_case_names.count("o")
 v = lower_case_names.count("v")
