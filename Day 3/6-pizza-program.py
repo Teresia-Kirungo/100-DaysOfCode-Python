@@ -1,4 +1,4 @@
-# Pizza Order
+# Python sPizza Order
 # Instructions: https://replit.com/@terrykirungo/6-pizza-program
 
 
@@ -37,6 +37,6 @@ if add_pepperoni == "Y":
 if extra_cheese== "Y":
     bill += 1
 
-print(f"Your final bill is ${bill}")
+print(f"Your final bill is: ${bill}")
 
 # Test it here: https://replit.com/@terrykirungo/6-pizza-program#main.py
