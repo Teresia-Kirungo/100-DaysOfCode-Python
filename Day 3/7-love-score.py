@@ -14,13 +14,13 @@ both_names = name1 + name2 #concatenation
 lower_case_names = both_names.lower()
 
 # Checks for the number of times the letters of the word true appears
-t = lower_case_names.count("t") #data type int, that's why count can loop through the lowercase names and count
+# The count() function will give you the number of times a letter occurs in a string.
+t = lower_case_names.count("t") #data type int
 r = lower_case_names.count("r")
 u = lower_case_names.count("u")
 e = lower_case_names.count("e")
 
 true = t + r + u + e
-print(true)
 
 # Checks for the number of times the letters of the word love appears
 l = lower_case_names.count("l")
