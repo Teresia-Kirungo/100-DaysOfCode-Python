@@ -1,4 +1,5 @@
 # Use of for loop in calculating love score
+# Instructions: https://replit.com/@terrykirungo/8-love-score-using-loop
 
 # 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
