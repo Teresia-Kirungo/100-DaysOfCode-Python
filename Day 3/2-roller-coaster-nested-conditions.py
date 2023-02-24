@@ -5,10 +5,10 @@ print("Welcome to the rollercoaster!")
 height = float(input("What is your height in cm? ")) #use of float to accomodate both whole numbers and whole numbers with decimal points
 bill = 0
 
-if height >= 120:
+if height >= 120: #height greater or equal to 120
   print("You can ride the rollercoaster!")
   age = int(input("What is your age? "))
-  if age < 12:
+  if age < 12: #checks the age of the rider, to determine amount payable.
     bill = 5
     print("Child tickets are $5.")
   elif age <= 18:
@@ -20,7 +20,7 @@ if height >= 120:
     bill = 12
     print("Adult tickets are $12.")
   
-  wants_photo = input("Do you want a photo taken? Y or N. ")
+  wants_photo = input("Do you want a photo taken? Y or N. ").upper() #converts input to capital letter before its checked because the function only accepts capital letter
   if wants_photo == "Y":
     # bill = bill + 3
     bill += 3
