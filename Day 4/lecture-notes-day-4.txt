@@ -1,4 +1,4 @@
-Learning about randomisation and Python Lists
+Learning about Randomisation and Python Lists
 
 Use of the random module; to build the rock, paper, scissoors game
 In order to use the random module as seen in file 4-1-randomisation.py we first need to import a random library
@@ -6,6 +6,10 @@ In order to use the random module as seen in file 4-1-randomisation.py we first 
   -> random.randint(1)
   
 A module is each of a set of standardized parts or independent units that can be used to construct a more complex structure, such as an item of furniture or a building.
+
+Computers are deterministic machines, they perform repeatable actions in a fully predictable way. 
+
+Python uses the Mersenne Twister to generate it's pseudo-random generator.
 
 In Python Modules refer to a file containing Python statements and definitions. We use modules to break down large programs into small manageable and organized files; random is an example of a module.
 
