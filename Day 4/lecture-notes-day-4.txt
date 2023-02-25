@@ -9,7 +9,7 @@ A module is each of a set of standardized parts or independent units that can be
 
 Computers are deterministic machines, they perform repeatable actions in a fully predictable way. 
 
-Python uses the Mersenne Twister to generate it's pseudo-random generator.
+Python uses the Mersenne Twister to generate it's pseudo-random number generator.
 
 In Python Modules refer to a file containing Python statements and definitions. We use modules to break down large programs into small manageable and organized files; random is an example of a module.
 
